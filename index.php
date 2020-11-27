@@ -1,5 +1,5 @@
 <?php
 
-include-one("Form.html");
+header('Location:/Form.html');
 
 ?>
